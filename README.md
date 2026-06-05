@@ -58,3 +58,26 @@ The objective of this project is to perform an end-to-end analysis of pizza sale
 
 -> Top Revenue-Generating Category
 
+
+* # Key Learnings
+> Data Cleaning and Preparation
+
+> SQL Query Optimization
+
+> Exploratory Data Analysis (EDA)
+
+> KPI Development and Tracking
+
+> Trend Analysis
+
+> Business Insight Generation
+
+> Dashboard Design and Reporting
+
+
+* # Author
+Rahul Goswami | Data Analyst 
+
+Email: igoswamirahul07@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/goswamirahul02/
